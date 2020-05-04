@@ -1,7 +1,7 @@
 def dodaj():
-    print("Wprowadź dwie liczby, a zostaną one do siebie dodane.")
+    print("Wprowadź dwie liczby, a zostaną one dodane.")
     a = int(input())
     b = int(input())
-    ptint(a + b)
-    
+    print(a + b)
+
 dodaj()
